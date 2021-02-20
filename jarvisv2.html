@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <title>JarvisV2</title>
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark  bg-primary " >
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <a class="navbar-brand" href="#">JarvisV2</a>
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Quantitative Analysis<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="#">Sentiment Analysis </a>
+            </li>
+            </ul>
+            <span class="navbar-text text-white">
+            
+             S3D
+            </span>
+        </div>
+    </nav>
+    <br>
+    <div class="container"> 
+      <div class="card">
+        <h1 class="card-header bg-dark text-white">Quantitative Analysis </h1>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Mean Return</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter1">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="mean_return" placeholder="50" >
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('mean_return')">Click Here</button>
+                </div>
+              </div>
+            </div>
+            <br>
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Standard Deviation</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter2">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="standard_dev" placeholder="50">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('standard_dev')">Click Here</button>
+                </div>
+              </div>
+            </div>
+            <br>
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Beta</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter2">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="beta" placeholder="50">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('beta')">Click Here</button>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Var 90</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter2">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="var90" placeholder="50">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('var90')">Click Here</button>
+                </div>
+              </div>
+            </div>
+            <br>
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Var 95</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter1">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="var95" placeholder="50">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('var95')">Click Here</button>
+                </div>
+              </div>
+            </div>
+            <br>
+            <div class="col-sm-4">
+              <div class="card bg-light border-dark shadow">
+                <div class="card-body">
+                  <h5 class="card-title">Var 99</h5>
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label class="text-secondary" for="filter2">Filter out top :</label>
+                      <input type="number" class="form-control border-dark" id="var99" placeholder="50">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="printtop('var99')">Click Here</button>
+                </div>
+              </div>
+            </div>
+
+
+            
+          </div>
+        </div>
+      </div>  
+      <br>
+      <div class="card">
+          <div class="card-body" id="table">
+            <h1 class="card-title">Results </h1>
+            <br>
+            <table class="table table-responsive-sm table-bordered table-striped shadow">
+              <tr  class="bg-dark text-white">
+                  <th> Sr no</th>
+                  <th>Stock Name</th>
+                  <th>Parameter</th>
+                  
+
+              </tr>
+          
+              <tbody id="myTable">
+                  
+              </tbody>
+            </table>
+
+
+
+            <script>
+              var stockname = [];
+              var mean_return = [];
+              var standard_dev = [];
+              var var90    = [];
+              var var95    = [];
+              var var99    = [];
+              var beta     = [];
+
+              function assignxy(x,y,z,p,q,r,s) {
+                console.log(x) 
+                console.log(y)
+                console.log(z)
+                console.log(p)
+                console.log(q)
+                console.log(r)
+                console.log(s)
+
+                stockname = x;
+                mean_return = y;
+                standard_dev = z;
+                var90    = p;
+                var95    = q;
+                var99    = r;
+                beta     = s;
+
+              }
+
+              function getparameter(p) {
+                  switch (p){
+                    case 'mean_return' : return mean_return;
+                    break;
+                    case 'standard_dev' : return standard_dev;
+                    break;
+                    case 'var90' : return var90;
+                    break;
+                    case 'var95' : return var95;
+                    break;
+                    case 'var99' : return var99;
+                    break;
+                    case 'beta'  : return beta;
+                    break;
+                    default : return [] ;
+                    break;
+                  }
+
+              }
+
+              function printtop(p){
+
+                var len = parseInt(document.getElementById(p).value); 
+                var table = document.getElementById('myTable')
+                table.innerHTML  = ""
+                var results = []
+                var p = getparameter(p)
+                for ( i = 0; i < stockname.length ; i ++){
+
+                  results.push({
+                    name: stockname[i],
+                    parameter : p[i]
+                  })
+
+                }
+                  results = results.sort(function(a,b){
+                    return b.parameter - a.parameter;
+                  })
+
+                  for (var i = 0; i < len ; i++){
+                    var row = `<tr>
+                            <td>${i+1}</td>
+                            <td>${results[i].name}</td>
+                            <td>${results[i].parameter}</td>                            
+                          </tr>`
+                    table.innerHTML += row
+                  }               
+              }
+
+              function printjson() {
+                fetch('quants.json')
+                .then(response => response.json())
+                .then(jsonResponse => {
+                  quantjson = jsonResponse;
+
+                  var x = []
+                  var y = []
+                  var z = []
+                  var p = []
+                  var q = []
+                  var r = []
+                  var s = []
+
+                  quantjson.forEach(element => {
+                  x.push(element.stockname)
+                  y.push(element.Mean_return)
+                  z.push(element.Standard_deviation)
+                  p.push(element.VAR_90)
+                  q.push(element.VAR_95)
+                  r.push(element.VAR_99)
+                  s.push(element.Beta)
+
+                });
+                assignxy(x,y,z,p,q,r,s)
+                })
+              }
+          
+              window.onload = function() {
+                
+                printjson();
+               
+              };
+            // outputs the content of the text file
+            </script>
+          </div>
+      </div>
+    </div>
+
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>

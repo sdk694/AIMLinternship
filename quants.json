@@ -1,0 +1,2684 @@
+[
+  { 
+    "stockname": "AARTIDRUGS.NS",
+    "Mean_return": 0.001746483,
+    "Standard_deviation": 0.025498233,
+    "VAR_90": -0.022244247,
+    "VAR_95": -0.03165523,
+    "VAR_99": -0.058204026,
+    "Beta": 0.72169708
+  },
+  {
+    "stockname": "AARTIIND.NS",
+    "Mean_return": 0.001554828,
+    "Standard_deviation": 0.020626431,
+    "VAR_90": -0.021785364,
+    "VAR_95": -0.028995452,
+    "VAR_99": -0.047582856,
+    "Beta": 0.498090835
+  },
+  {
+    "stockname": "ABB.NS",
+    "Mean_return": 0.000430452,
+    "Standard_deviation": 0.018906658,
+    "VAR_90": -0.019240009,
+    "VAR_95": -0.025654583,
+    "VAR_99": -0.042871547,
+    "Beta": 0.612227782
+  },
+  {
+    "stockname": "ABBOTINDIA.NS",
+    "Mean_return": 0.001038778,
+    "Standard_deviation": 0.016755039,
+    "VAR_90": -0.016066115,
+    "VAR_95": -0.021364453,
+    "VAR_99": -0.035566269,
+    "Beta": 0.091011078
+  },
+  {
+    "stockname": "ABCAPITAL.NS",
+    "Mean_return": -0.000772704,
+    "Standard_deviation": 0.026473527,
+    "VAR_90": -0.028569828,
+    "VAR_95": -0.037484102,
+    "VAR_99": -0.069234092,
+    "Beta": 1.188813098
+  },
+  {
+    "stockname": "ABFRL.NS",
+    "Mean_return": 0.000314364,
+    "Standard_deviation": 0.024697798,
+    "VAR_90": -0.025457594,
+    "VAR_95": -0.035425316,
+    "VAR_99": -0.05519521,
+    "Beta": 0.657117831
+  },
+  {
+    "stockname": "ACC.NS",
+    "Mean_return": 0.000455604,
+    "Standard_deviation": 0.018190943,
+    "VAR_90": -0.019462395,
+    "VAR_95": -0.028287896,
+    "VAR_99": -0.044367162,
+    "Beta": 1.029425612
+  },
+  {
+    "stockname": "ADANIPORTS.NS",
+    "Mean_return": 0.001186308,
+    "Standard_deviation": 0.022765888,
+    "VAR_90": -0.021689476,
+    "VAR_95": -0.029804532,
+    "VAR_99": -0.059914448,
+    "Beta": 1.174895412
+  },
+  {
+    "stockname": "ADANIPOWER.NS",
+    "Mean_return": 0.001245809,
+    "Standard_deviation": 0.034834724,
+    "VAR_90": -0.032469227,
+    "VAR_95": -0.049150591,
+    "VAR_99": -0.087938051,
+    "Beta": 0.668000636
+  },
+  {
+    "stockname": "ADANITRANS.NS",
+    "Mean_return": 0.002888984,
+    "Standard_deviation": 0.031160476,
+    "VAR_90": -0.028769772,
+    "VAR_95": -0.040635028,
+    "VAR_99": -0.068089428,
+    "Beta": 1.267289746
+  },
+  {
+    "stockname": "ADVENZYMES.NS",
+    "Mean_return": 0.000806463,
+    "Standard_deviation": 0.029162938,
+    "VAR_90": -0.027019966,
+    "VAR_95": -0.035638971,
+    "VAR_99": -0.063700834,
+    "Beta": 0.333202482
+  },
+  {
+    "stockname": "AEGISCHEM.NS",
+    "Mean_return": 0.00144767,
+    "Standard_deviation": 0.027433719,
+    "VAR_90": -0.027306395,
+    "VAR_95": -0.038561624,
+    "VAR_99": -0.057872693,
+    "Beta": 0.368818502
+  },
+  {
+    "stockname": "AIAENG.NS",
+    "Mean_return": 0.000955806,
+    "Standard_deviation": 0.020176236,
+    "VAR_90": -0.022237839,
+    "VAR_95": -0.029062886,
+    "VAR_99": -0.045292086,
+    "Beta": 0.451910577
+  },
+  {
+    "stockname": "AJANTPHARM.NS",
+    "Mean_return": 0.00047906,
+    "Standard_deviation": 0.020555587,
+    "VAR_90": -0.021843727,
+    "VAR_95": -0.031107113,
+    "VAR_99": -0.054666016,
+    "Beta": 0.207927726
+  },
+  {
+    "stockname": "AKZOINDIA.NS",
+    "Mean_return": 0.000628487,
+    "Standard_deviation": 0.016551781,
+    "VAR_90": -0.016238658,
+    "VAR_95": -0.02219084,
+    "VAR_99": -0.043759609,
+    "Beta": 0.542410232
+  },
+  {
+    "stockname": "ALKEM.NS",
+    "Mean_return": 0.000814755,
+    "Standard_deviation": 0.017149404,
+    "VAR_90": -0.018202966,
+    "VAR_95": -0.0237774,
+    "VAR_99": -0.035802072,
+    "Beta": 0.109544067
+  },
+  {
+    "stockname": "ALKYLAMINE.NS",
+    "Mean_return": 0.002678486,
+    "Standard_deviation": 0.028008896,
+    "VAR_90": -0.025438063,
+    "VAR_95": -0.034336431,
+    "VAR_99": -0.060503027,
+    "Beta": 1.00697819
+  },
+  {
+    "stockname": "ALLCARGO.NS",
+    "Mean_return": 0.000171438,
+    "Standard_deviation": 0.023594813,
+    "VAR_90": -0.024115308,
+    "VAR_95": -0.032814376,
+    "VAR_99": -0.059891982,
+    "Beta": 0.301371532
+  },
+  {
+    "stockname": "AMARAJABAT.NS",
+    "Mean_return": 0.000295888,
+    "Standard_deviation": 0.019641352,
+    "VAR_90": -0.020523697,
+    "VAR_95": -0.028930854,
+    "VAR_99": -0.049218724,
+    "Beta": 0.750066697
+  },
+  {
+    "stockname": "AMBUJACEM.NS",
+    "Mean_return": 0.000464971,
+    "Standard_deviation": 0.019001379,
+    "VAR_90": -0.02148564,
+    "VAR_95": -0.028348184,
+    "VAR_99": -0.050178704,
+    "Beta": 1.09407152
+  },
+  {
+    "stockname": "APLAPOLLO.NS",
+    "Mean_return": 0.001958879,
+    "Standard_deviation": 0.02391886,
+    "VAR_90": -0.022111211,
+    "VAR_95": -0.030410967,
+    "VAR_99": -0.055717653,
+    "Beta": 0.780050271
+  },
+  {
+    "stockname": "APLLTD.NS",
+    "Mean_return": 0.0005962,
+    "Standard_deviation": 0.020999487,
+    "VAR_90": -0.019565686,
+    "VAR_95": -0.027479527,
+    "VAR_99": -0.046633441,
+    "Beta": 0.424252312
+  },
+  {
+    "stockname": "APOLLOHOSP.NS",
+    "Mean_return": 0.000756114,
+    "Standard_deviation": 0.021283336,
+    "VAR_90": -0.022366247,
+    "VAR_95": -0.027615163,
+    "VAR_99": -0.053553519,
+    "Beta": 0.51330487
+  },
+  {
+    "stockname": "ASIANPAINT.NS",
+    "Mean_return": 0.000977337,
+    "Standard_deviation": 0.016237994,
+    "VAR_90": -0.01573815,
+    "VAR_95": -0.022027498,
+    "VAR_99": -0.037575901,
+    "Beta": 0.67323503
+  },
+  {
+    "stockname": "ASTERDM.NS",
+    "Mean_return": 0.000150448,
+    "Standard_deviation": 0.026047436,
+    "VAR_90": -0.02534842,
+    "VAR_95": -0.033432435,
+    "VAR_99": -0.074587357,
+    "Beta": 0.441448219
+  },
+  {
+    "stockname": "ASTRAZEN.NS",
+    "Mean_return": 0.001274171,
+    "Standard_deviation": 0.024323387,
+    "VAR_90": -0.022430185,
+    "VAR_95": -0.029699557,
+    "VAR_99": -0.060013969,
+    "Beta": 0.327136635
+  },
+  {
+    "stockname": "ATUL.NS",
+    "Mean_return": 0.001406299,
+    "Standard_deviation": 0.018717247,
+    "VAR_90": -0.017252688,
+    "VAR_95": -0.025578792,
+    "VAR_99": -0.046230794,
+    "Beta": 0.316804555
+  },
+  {
+    "stockname": "AUBANK.NS",
+    "Mean_return": 0.001032522,
+    "Standard_deviation": 0.026462131,
+    "VAR_90": -0.024928596,
+    "VAR_95": -0.042073324,
+    "VAR_99": -0.083647178,
+    "Beta": 1.387683261
+  },
+  {
+    "stockname": "AUROPHARMA.NS",
+    "Mean_return": 0.000667389,
+    "Standard_deviation": 0.026051693,
+    "VAR_90": -0.024120804,
+    "VAR_95": -0.033580172,
+    "VAR_99": -0.056593912,
+    "Beta": 0.891789542
+  },
+  {
+    "stockname": "AVANTIFEED.NS",
+    "Mean_return": 0.001602913,
+    "Standard_deviation": 0.031363793,
+    "VAR_90": -0.029061016,
+    "VAR_95": -0.040180752,
+    "VAR_99": -0.073651595,
+    "Beta": 0.689166356
+  },
+  {
+    "stockname": "AXISBANK.NS",
+    "Mean_return": 0.00084301,
+    "Standard_deviation": 0.024225753,
+    "VAR_90": -0.022299997,
+    "VAR_95": -0.030571718,
+    "VAR_99": -0.057664577,
+    "Beta": 1.42803285
+  },
+  {
+    "stockname": "BAJAJ-AUTO.NS",
+    "Mean_return": 0.00062654,
+    "Standard_deviation": 0.016708661,
+    "VAR_90": -0.015894331,
+    "VAR_95": -0.02299962,
+    "VAR_99": -0.041253208,
+    "Beta": 0.5599592
+  },
+  {
+    "stockname": "BAJAJCON.NS",
+    "Mean_return": -0.0000933,
+    "Standard_deviation": 0.021876111,
+    "VAR_90": -0.020803192,
+    "VAR_95": -0.030117065,
+    "VAR_99": -0.053882608,
+    "Beta": 0.868593801
+  },
+  {
+    "stockname": "BAJAJELEC.NS",
+    "Mean_return": 0.001834601,
+    "Standard_deviation": 0.026837934,
+    "VAR_90": -0.02628265,
+    "VAR_95": -0.035485071,
+    "VAR_99": -0.061385122,
+    "Beta": 0.968011664
+  },
+  {
+    "stockname": "BAJAJFINSV.NS",
+    "Mean_return": 0.001723697,
+    "Standard_deviation": 0.023354907,
+    "VAR_90": -0.022430965,
+    "VAR_95": -0.031137574,
+    "VAR_99": -0.055087066,
+    "Beta": 1.326063526
+  },
+  {
+    "stockname": "BAJAJHLDNG.NS",
+    "Mean_return": 0.000993356,
+    "Standard_deviation": 0.020526098,
+    "VAR_90": -0.018400897,
+    "VAR_95": -0.02639152,
+    "VAR_99": -0.054891367,
+    "Beta": 0.461421958
+  },
+  {
+    "stockname": "BAJFINANCE.NS",
+    "Mean_return": 0.002126384,
+    "Standard_deviation": 0.026175848,
+    "VAR_90": -0.023631714,
+    "VAR_95": -0.036636446,
+    "VAR_99": -0.072953624,
+    "Beta": 1.489747031
+  },
+  {
+    "stockname": "BALRAMCHIN.NS",
+    "Mean_return": 0.001067537,
+    "Standard_deviation": 0.030162421,
+    "VAR_90": -0.032889768,
+    "VAR_95": -0.047043638,
+    "VAR_99": -0.069132187,
+    "Beta": 0.72631094
+  },
+  {
+    "stockname": "BANDHANBNK.NS",
+    "Mean_return": 0.00023178,
+    "Standard_deviation": 0.03906489,
+    "VAR_90": -0.035288234,
+    "VAR_95": -0.049568884,
+    "VAR_99": -0.104803548,
+    "Beta": 1.645258148
+  },
+  {
+    "stockname": "BANKBARODA.NS",
+    "Mean_return": 0.000134024,
+    "Standard_deviation": 0.029460337,
+    "VAR_90": -0.032086494,
+    "VAR_95": -0.041652011,
+    "VAR_99": -0.068130022,
+    "Beta": 1.436970395
+  },
+  {
+    "stockname": "BASF.NS",
+    "Mean_return": 0.000939325,
+    "Standard_deviation": 0.024258442,
+    "VAR_90": -0.023815356,
+    "VAR_95": -0.031732489,
+    "VAR_99": -0.046948062,
+    "Beta": 0.846349786
+  },
+  {
+    "stockname": "BATAINDIA.NS",
+    "Mean_return": 0.00114843,
+    "Standard_deviation": 0.018592922,
+    "VAR_90": -0.018073502,
+    "VAR_95": -0.025391467,
+    "VAR_99": -0.042027266,
+    "Beta": 0.695658164
+  },
+  {
+    "stockname": "BBTC.NS",
+    "Mean_return": 0.001461025,
+    "Standard_deviation": 0.028667945,
+    "VAR_90": -0.024336366,
+    "VAR_95": -0.036339748,
+    "VAR_99": -0.05984076,
+    "Beta": 0.88284499
+  },
+  {
+    "stockname": "BEL.NS",
+    "Mean_return": 0.000560115,
+    "Standard_deviation": 0.024442982,
+    "VAR_90": -0.025892135,
+    "VAR_95": -0.03414565,
+    "VAR_99": -0.059228706,
+    "Beta": 0.933055499
+  },
+  {
+    "stockname": "BHARATFORG.NS",
+    "Mean_return": 0.000709402,
+    "Standard_deviation": 0.023964054,
+    "VAR_90": -0.022130236,
+    "VAR_95": -0.031756441,
+    "VAR_99": -0.060460942,
+    "Beta": 0.99797342
+  },
+  {
+    "stockname": "BHARATRAS.NS",
+    "Mean_return": 0.002420933,
+    "Standard_deviation": 0.031560825,
+    "VAR_90": -0.026188885,
+    "VAR_95": -0.036592106,
+    "VAR_99": -0.064585636,
+    "Beta": 0.649052539
+  },
+  {
+    "stockname": "BHARTIARTL.NS",
+    "Mean_return": 0.000844836,
+    "Standard_deviation": 0.021906339,
+    "VAR_90": -0.023111144,
+    "VAR_95": -0.032520806,
+    "VAR_99": -0.052290361,
+    "Beta": 0.923820157
+  },
+  {
+    "stockname": "BIOCON.NS",
+    "Mean_return": 0.001645209,
+    "Standard_deviation": 0.022560383,
+    "VAR_90": -0.022308451,
+    "VAR_95": -0.032212177,
+    "VAR_99": -0.05469424,
+    "Beta": 1.21318157
+  },
+  {
+    "stockname": "BIRLACORPN.NS",
+    "Mean_return": 0.001005033,
+    "Standard_deviation": 0.024831256,
+    "VAR_90": -0.02451761,
+    "VAR_95": -0.031731528,
+    "VAR_99": -0.058853798,
+    "Beta": 0.891722409
+  },
+  {
+    "stockname": "BLUEDART.NS",
+    "Mean_return": -0.0000585,
+    "Standard_deviation": 0.020216107,
+    "VAR_90": -0.02060341,
+    "VAR_95": -0.028107379,
+    "VAR_99": -0.045831513,
+    "Beta": 0.268806397
+  },
+  {
+    "stockname": "BOSCHLTD.NS",
+    "Mean_return": 0.000223024,
+    "Standard_deviation": 0.020129723,
+    "VAR_90": -0.020645847,
+    "VAR_95": -0.028191584,
+    "VAR_99": -0.053416338,
+    "Beta": 1.024689468
+  },
+  {
+    "stockname": "BPCL.NS",
+    "Mean_return": 0.000654323,
+    "Standard_deviation": 0.024457212,
+    "VAR_90": -0.024326134,
+    "VAR_95": -0.032372842,
+    "VAR_99": -0.069508192,
+    "Beta": 0.99251837
+  },
+  {
+    "stockname": "BRITANNIA.NS",
+    "Mean_return": 0.000927625,
+    "Standard_deviation": 0.016639806,
+    "VAR_90": -0.016211182,
+    "VAR_95": -0.022670196,
+    "VAR_99": -0.036827589,
+    "Beta": 0.253559012
+  },
+  {
+    "stockname": "BSE.NS",
+    "Mean_return": -0.00041144,
+    "Standard_deviation": 0.017907073,
+    "VAR_90": -0.018008119,
+    "VAR_95": -0.026490403,
+    "VAR_99": -0.044372688,
+    "Beta": 0.681641917
+  },
+  {
+    "stockname": "BSOFT.NS",
+    "Mean_return": 0.001439265,
+    "Standard_deviation": 0.029117953,
+    "VAR_90": -0.028061143,
+    "VAR_95": -0.040176906,
+    "VAR_99": -0.074891054,
+    "Beta": 0.780296803
+  },
+  {
+    "stockname": "CADILAHC.NS",
+    "Mean_return": 0.000549248,
+    "Standard_deviation": 0.021629603,
+    "VAR_90": -0.02300787,
+    "VAR_95": -0.031753031,
+    "VAR_99": -0.049682662,
+    "Beta": 0.793564005
+  },
+  {
+    "stockname": "CAPLIPOINT.NS",
+    "Mean_return": 0.001199608,
+    "Standard_deviation": 0.031876731,
+    "VAR_90": -0.027685388,
+    "VAR_95": -0.040703317,
+    "VAR_99": -0.074242749,
+    "Beta": 0.548141783
+  },
+  {
+    "stockname": "CASTROLIND.NS",
+    "Mean_return": -0.00011116,
+    "Standard_deviation": 0.019469811,
+    "VAR_90": -0.021026199,
+    "VAR_95": -0.028868852,
+    "VAR_99": -0.044677672,
+    "Beta": 0.382661215
+  },
+  {
+    "stockname": "CCL.NS",
+    "Mean_return": 0.000566988,
+    "Standard_deviation": 0.020029961,
+    "VAR_90": -0.020227789,
+    "VAR_95": -0.028780399,
+    "VAR_99": -0.053241383,
+    "Beta": 0.616431424
+  },
+  {
+    "stockname": "CDSL.NS",
+    "Mean_return": 0.001055432,
+    "Standard_deviation": 0.024052888,
+    "VAR_90": -0.022029298,
+    "VAR_95": -0.03101002,
+    "VAR_99": -0.049800211,
+    "Beta": 0.769468483
+  },
+  {
+    "stockname": "CEATLTD.NS",
+    "Mean_return": 0.000724861,
+    "Standard_deviation": 0.022412436,
+    "VAR_90": -0.021579275,
+    "VAR_95": -0.029162766,
+    "VAR_99": -0.056729611,
+    "Beta": 0.556332907
+  },
+  {
+    "stockname": "CENTRALBK.NS",
+    "Mean_return": -0.000622437,
+    "Standard_deviation": 0.028298285,
+    "VAR_90": -0.027588606,
+    "VAR_95": -0.03767487,
+    "VAR_99": -0.063766038,
+    "Beta": 0.609796762
+  },
+  {
+    "stockname": "CESC.NS",
+    "Mean_return": 0.00059951,
+    "Standard_deviation": 0.020442414,
+    "VAR_90": -0.020526367,
+    "VAR_95": -0.027259771,
+    "VAR_99": -0.049153101,
+    "Beta": 0.783610978
+  },
+  {
+    "stockname": "CHAMBLFERT.NS",
+    "Mean_return": 0.001515324,
+    "Standard_deviation": 0.025014074,
+    "VAR_90": -0.025645281,
+    "VAR_95": -0.035016976,
+    "VAR_99": -0.053685493,
+    "Beta": 0.401586379
+  },
+  {
+    "stockname": "CHOLAFIN.NS",
+    "Mean_return": 0.001416189,
+    "Standard_deviation": 0.028687906,
+    "VAR_90": -0.025630204,
+    "VAR_95": -0.036332297,
+    "VAR_99": -0.072002134,
+    "Beta": 1.316931332
+  },
+  {
+    "stockname": "CIPLA.NS",
+    "Mean_return": 0.000521953,
+    "Standard_deviation": 0.017794986,
+    "VAR_90": -0.018722288,
+    "VAR_95": -0.023681442,
+    "VAR_99": -0.044556307,
+    "Beta": 0.477135183
+  },
+  {
+    "stockname": "COALINDIA.NS",
+    "Mean_return": -0.000452332,
+    "Standard_deviation": 0.018515817,
+    "VAR_90": -0.021310319,
+    "VAR_95": -0.028494574,
+    "VAR_99": -0.048083875,
+    "Beta": 1.07122479
+  },
+  {
+    "stockname": "COCHINSHIP.NS",
+    "Mean_return": -0.000264866,
+    "Standard_deviation": 0.021029121,
+    "VAR_90": -0.018841666,
+    "VAR_95": -0.026141811,
+    "VAR_99": -0.054013303,
+    "Beta": 0.574672578
+  },
+  {
+    "stockname": "COFORGE.NS",
+    "Mean_return": 0.001729771,
+    "Standard_deviation": 0.02692439,
+    "VAR_90": -0.024375128,
+    "VAR_95": -0.034264958,
+    "VAR_99": -0.064428741,
+    "Beta": 1.263316748
+  },
+  {
+    "stockname": "COLPAL.NS",
+    "Mean_return": 0.000632158,
+    "Standard_deviation": 0.014262336,
+    "VAR_90": -0.014699043,
+    "VAR_95": -0.019557122,
+    "VAR_99": -0.0347282,
+    "Beta": 0.348582372
+  },
+  {
+    "stockname": "CONCOR.NS",
+    "Mean_return": 0.000514241,
+    "Standard_deviation": 0.021031691,
+    "VAR_90": -0.021594019,
+    "VAR_95": -0.029521321,
+    "VAR_99": -0.050290864,
+    "Beta": 0.849883493
+  },
+  {
+    "stockname": "COROMANDEL.NS",
+    "Mean_return": 0.001506395,
+    "Standard_deviation": 0.020957474,
+    "VAR_90": -0.022305908,
+    "VAR_95": -0.030673591,
+    "VAR_99": -0.049131145,
+    "Beta": 0.066707938
+  },
+  {
+    "stockname": "CRISIL.NS",
+    "Mean_return": 0.000199588,
+    "Standard_deviation": 0.01740954,
+    "VAR_90": -0.016443467,
+    "VAR_95": -0.024708818,
+    "VAR_99": -0.045979595,
+    "Beta": 0.17595922
+  },
+  {
+    "stockname": "CROMPTON.NS",
+    "Mean_return": 0.001163358,
+    "Standard_deviation": 0.020982308,
+    "VAR_90": -0.022772011,
+    "VAR_95": -0.030857144,
+    "VAR_99": -0.048272918,
+    "Beta": 0.067787139
+  },
+  {
+    "stockname": "CSBBANK.NS",
+    "Mean_return": -0.000557503,
+    "Standard_deviation": 0.031364944,
+    "VAR_90": -0.033394997,
+    "VAR_95": -0.047365528,
+    "VAR_99": -0.081654073,
+    "Beta": 0.606919505
+  },
+  {
+    "stockname": "CUMMINSIND.NS",
+    "Mean_return": 0.0000825,
+    "Standard_deviation": 0.020348039,
+    "VAR_90": -0.022975983,
+    "VAR_95": -0.030020045,
+    "VAR_99": -0.05556367,
+    "Beta": 0.746366447
+  },
+  {
+    "stockname": "CYIENT.NS",
+    "Mean_return": 0.00068444,
+    "Standard_deviation": 0.023325606,
+    "VAR_90": -0.022482535,
+    "VAR_95": -0.031866997,
+    "VAR_99": -0.063931963,
+    "Beta": 0.505664486
+  },
+  {
+    "stockname": "DABUR.NS",
+    "Mean_return": 0.000750705,
+    "Standard_deviation": 0.01558053,
+    "VAR_90": -0.015838078,
+    "VAR_95": -0.022008445,
+    "VAR_99": -0.036256229,
+    "Beta": 0.3814637
+  },
+  {
+    "stockname": "DCAL.NS",
+    "Mean_return": 0.000409674,
+    "Standard_deviation": 0.032068158,
+    "VAR_90": -0.032838955,
+    "VAR_95": -0.047408601,
+    "VAR_99": -0.068017119,
+    "Beta": 1.237633304
+  },
+  {
+    "stockname": "DCBBANK.NS",
+    "Mean_return": 0.000697393,
+    "Standard_deviation": 0.025074713,
+    "VAR_90": -0.02338603,
+    "VAR_95": -0.035387485,
+    "VAR_99": -0.072681937,
+    "Beta": 1.421290035
+  },
+  {
+    "stockname": "DCMSHRIRAM.NS",
+    "Mean_return": 0.001619551,
+    "Standard_deviation": 0.0311422,
+    "VAR_90": -0.030675862,
+    "VAR_95": -0.043291064,
+    "VAR_99": -0.077051765,
+    "Beta": 0.684310998
+  },
+  {
+    "stockname": "DEEPAKNTR.NS",
+    "Mean_return": 0.00270315,
+    "Standard_deviation": 0.02694462,
+    "VAR_90": -0.024830899,
+    "VAR_95": -0.035284264,
+    "VAR_99": -0.058861699,
+    "Beta": 0.704038067
+  },
+  {
+    "stockname": "DHANUKA.NS",
+    "Mean_return": 0.00058301,
+    "Standard_deviation": 0.023000971,
+    "VAR_90": -0.02344058,
+    "VAR_95": -0.033063264,
+    "VAR_99": -0.051768782,
+    "Beta": 0.305420629
+  },
+  {
+    "stockname": "DIVISLAB.NS",
+    "Mean_return": 0.001324869,
+    "Standard_deviation": 0.022518589,
+    "VAR_90": -0.019476703,
+    "VAR_95": -0.025930945,
+    "VAR_99": -0.049190106,
+    "Beta": 0.854809409
+  },
+  {
+    "stockname": "DMART.NS",
+    "Mean_return": 0.001850481,
+    "Standard_deviation": 0.022192951,
+    "VAR_90": -0.023438882,
+    "VAR_95": -0.033479527,
+    "VAR_99": -0.050854589,
+    "Beta": 0.499244186
+  },
+  {
+    "stockname": "DRREDDY.NS",
+    "Mean_return": 0.000592184,
+    "Standard_deviation": 0.018388944,
+    "VAR_90": -0.018565764,
+    "VAR_95": -0.025385074,
+    "VAR_99": -0.047577737,
+    "Beta": 0.446626055
+  },
+  {
+    "stockname": "EDELWEISS.NS",
+    "Mean_return": 0.00088833,
+    "Standard_deviation": 0.034636485,
+    "VAR_90": -0.040161012,
+    "VAR_95": -0.049848634,
+    "VAR_99": -0.094678144,
+    "Beta": 1.176316979
+  },
+  {
+    "stockname": "EICHERMOT.NS",
+    "Mean_return": 0.000657103,
+    "Standard_deviation": 0.021544522,
+    "VAR_90": -0.02215536,
+    "VAR_95": -0.032390798,
+    "VAR_99": -0.060801745,
+    "Beta": 0.938908923
+  },
+  {
+    "stockname": "EIDPARRY.NS",
+    "Mean_return": 0.000964717,
+    "Standard_deviation": 0.025945553,
+    "VAR_90": -0.024707707,
+    "VAR_95": -0.033751627,
+    "VAR_99": -0.052716488,
+    "Beta": 0.591277031
+  },
+  {
+    "stockname": "EMAMILTD.NS",
+    "Mean_return": 0.000225418,
+    "Standard_deviation": 0.022021711,
+    "VAR_90": -0.021097572,
+    "VAR_95": -0.030927449,
+    "VAR_99": -0.056104377,
+    "Beta": 0.243694022
+  },
+  {
+    "stockname": "ENDURANCE.NS",
+    "Mean_return": 0.001036117,
+    "Standard_deviation": 0.022858089,
+    "VAR_90": -0.022474591,
+    "VAR_95": -0.031831021,
+    "VAR_99": -0.052347677,
+    "Beta": 0.143721365
+  },
+  {
+    "stockname": "ENGINERSIN.NS",
+    "Mean_return": 0.000289596,
+    "Standard_deviation": 0.022904151,
+    "VAR_90": -0.023917209,
+    "VAR_95": -0.034083367,
+    "VAR_99": -0.058163958,
+    "Beta": 0.761623862
+  },
+  {
+    "stockname": "ERIS.NS",
+    "Mean_return": 0.000208389,
+    "Standard_deviation": 0.021980141,
+    "VAR_90": -0.02224954,
+    "VAR_95": -0.030512947,
+    "VAR_99": -0.051225665,
+    "Beta": 0.255243631
+  },
+  {
+    "stockname": "EXIDEIND.NS",
+    "Mean_return": 0.000610838,
+    "Standard_deviation": 0.019088706,
+    "VAR_90": -0.02087345,
+    "VAR_95": -0.027840283,
+    "VAR_99": -0.046103737,
+    "Beta": 0.699125908
+  },
+  {
+    "stockname": "FACT.NS",
+    "Mean_return": 0.001874383,
+    "Standard_deviation": 0.03779927,
+    "VAR_90": -0.034138141,
+    "VAR_95": -0.047182342,
+    "VAR_99": -0.08441905,
+    "Beta": 1.186680771
+  },
+  {
+    "stockname": "FCONSUMER.NS",
+    "Mean_return": -0.000234315,
+    "Standard_deviation": 0.032124687,
+    "VAR_90": -0.039913238,
+    "VAR_95": -0.04726124,
+    "VAR_99": -0.059182482,
+    "Beta": 0.455720947
+  },
+  {
+    "stockname": "FDC.NS",
+    "Mean_return": 0.000591879,
+    "Standard_deviation": 0.021986226,
+    "VAR_90": -0.022411215,
+    "VAR_95": -0.030509796,
+    "VAR_99": -0.053516036,
+    "Beta": 0.622825851
+  },
+  {
+    "stockname": "FEDERALBNK.NS",
+    "Mean_return": 0.000856957,
+    "Standard_deviation": 0.025720219,
+    "VAR_90": -0.026108791,
+    "VAR_95": -0.034153343,
+    "VAR_99": -0.0694842,
+    "Beta": 1.733667941
+  },
+  {
+    "stockname": "FINEORG.NS",
+    "Mean_return": 0.001986378,
+    "Standard_deviation": 0.025882341,
+    "VAR_90": -0.023806644,
+    "VAR_95": -0.033248593,
+    "VAR_99": -0.050682407,
+    "Beta": 0.642340503
+  },
+  {
+    "stockname": "FLUOROCHEM.NS",
+    "Mean_return": -0.0000602,
+    "Standard_deviation": 0.032061093,
+    "VAR_90": -0.033298397,
+    "VAR_95": -0.047707084,
+    "VAR_99": -0.09425036,
+    "Beta": 0.661886376
+  },
+  {
+    "stockname": "FORTIS.NS",
+    "Mean_return": 0.000348677,
+    "Standard_deviation": 0.0237038,
+    "VAR_90": -0.022938126,
+    "VAR_95": -0.032926092,
+    "VAR_99": -0.066294686,
+    "Beta": 0.40119216
+  },
+  {
+    "stockname": "GAEL.NS",
+    "Mean_return": 0.002096711,
+    "Standard_deviation": 0.031962837,
+    "VAR_90": -0.031995655,
+    "VAR_95": -0.044039133,
+    "VAR_99": -0.073735761,
+    "Beta": 0.768923027
+  },
+  {
+    "stockname": "GALAXYSURF.NS",
+    "Mean_return": 0.000618446,
+    "Standard_deviation": 0.02137916,
+    "VAR_90": -0.020132092,
+    "VAR_95": -0.028231874,
+    "VAR_99": -0.045881264,
+    "Beta": 0.747634785
+  },
+  {
+    "stockname": "GICRE.NS",
+    "Mean_return": -0.001099088,
+    "Standard_deviation": 0.025665042,
+    "VAR_90": -0.02574267,
+    "VAR_95": -0.036758726,
+    "VAR_99": -0.06745495,
+    "Beta": 0.803134833
+  },
+  {
+    "stockname": "GLAXO.NS",
+    "Mean_return": 0.0000363,
+    "Standard_deviation": 0.014928294,
+    "VAR_90": -0.013725755,
+    "VAR_95": -0.018979688,
+    "VAR_99": -0.037414229,
+    "Beta": 0.401584812
+  },
+  {
+    "stockname": "GLENMARK.NS",
+    "Mean_return": -0.00000414,
+    "Standard_deviation": 0.02408877,
+    "VAR_90": -0.023635794,
+    "VAR_95": -0.032993542,
+    "VAR_99": -0.059663642,
+    "Beta": 0.921420364
+  },
+  {
+    "stockname": "GNFC.NS",
+    "Mean_return": 0.001421507,
+    "Standard_deviation": 0.029573804,
+    "VAR_90": -0.030652858,
+    "VAR_95": -0.040610577,
+    "VAR_99": -0.072462512,
+    "Beta": 0.490918193
+  },
+  {
+    "stockname": "GODFRYPHLP.NS",
+    "Mean_return": 0.00036469,
+    "Standard_deviation": 0.028196019,
+    "VAR_90": -0.026196314,
+    "VAR_95": -0.037525962,
+    "VAR_99": -0.065391761,
+    "Beta": 0.528529657
+  },
+  {
+    "stockname": "GODREJAGRO.NS",
+    "Mean_return": -0.0000152,
+    "Standard_deviation": 0.019971652,
+    "VAR_90": -0.019806352,
+    "VAR_95": -0.029012135,
+    "VAR_99": -0.051428392,
+    "Beta": 0.47052142
+  },
+  {
+    "stockname": "GODREJCP.NS",
+    "Mean_return": 0.000685658,
+    "Standard_deviation": 0.01900712,
+    "VAR_90": -0.020860961,
+    "VAR_95": -0.027613956,
+    "VAR_99": -0.047696241,
+    "Beta": 0.488988461
+  },
+  {
+    "stockname": "GODREJIND.NS",
+    "Mean_return": 0.000471327,
+    "Standard_deviation": 0.018464683,
+    "VAR_90": -0.020645706,
+    "VAR_95": -0.028051705,
+    "VAR_99": -0.046103279,
+    "Beta": 0.34903706
+  },
+  {
+    "stockname": "GOLDBEES.NS",
+    "Mean_return": 0.080162483,
+    "Standard_deviation": 2.82298091,
+    "VAR_90": -0.008484218,
+    "VAR_95": -0.01171052,
+    "VAR_99": -0.025588434,
+    "Beta": -0.041129412
+  },
+  {
+    "stockname": "GRANULES.NS",
+    "Mean_return": 0.001285126,
+    "Standard_deviation": 0.027325054,
+    "VAR_90": -0.029243718,
+    "VAR_95": -0.03763711,
+    "VAR_99": -0.064497144,
+    "Beta": 0.590234266
+  },
+  {
+    "stockname": "GRAPHITE.NS",
+    "Mean_return": 0.002035503,
+    "Standard_deviation": 0.034305884,
+    "VAR_90": -0.034881881,
+    "VAR_95": -0.049867784,
+    "VAR_99": -0.080659908,
+    "Beta": 1.16870807
+  },
+  {
+    "stockname": "GRASIM.NS",
+    "Mean_return": 0.000906607,
+    "Standard_deviation": 0.021279082,
+    "VAR_90": -0.020679814,
+    "VAR_95": -0.030221665,
+    "VAR_99": -0.051033398,
+    "Beta": 0.961611114
+  },
+  {
+    "stockname": "GSFC.NS",
+    "Mean_return": 0.000544678,
+    "Standard_deviation": 0.025502237,
+    "VAR_90": -0.027997511,
+    "VAR_95": -0.03613417,
+    "VAR_99": -0.06606038,
+    "Beta": 0.781174965
+  },
+  {
+    "stockname": "GSKCONS.NS",
+    "Mean_return": 0.000603434,
+    "Standard_deviation": 0.014394509,
+    "VAR_90": -0.012254363,
+    "VAR_95": -0.018843536,
+    "VAR_99": -0.040553844,
+    "Beta": 0
+  },
+  {
+    "stockname": "GUJALKALI.NS",
+    "Mean_return": 0.000920227,
+    "Standard_deviation": 0.026422721,
+    "VAR_90": -0.02516689,
+    "VAR_95": -0.034221979,
+    "VAR_99": -0.059372243,
+    "Beta": 0.520306881
+  },
+  {
+    "stockname": "HAPPSTMNDS.NS",
+    "Mean_return": -0.000337334,
+    "Standard_deviation": 0.02459629,
+    "VAR_90": -0.031840984,
+    "VAR_95": -0.039123942,
+    "VAR_99": -0.053827002,
+    "Beta": 0.440856414
+  },
+  {
+    "stockname": "HATSUN.NS",
+    "Mean_return": 0.001225941,
+    "Standard_deviation": 0.021483599,
+    "VAR_90": -0.018990575,
+    "VAR_95": -0.027458839,
+    "VAR_99": -0.049241646,
+    "Beta": 1.167863873
+  },
+  {
+    "stockname": "HAVELLS.NS",
+    "Mean_return": 0.001364909,
+    "Standard_deviation": 0.020126676,
+    "VAR_90": -0.020420103,
+    "VAR_95": -0.028728559,
+    "VAR_99": -0.054109011,
+    "Beta": 0.703071566
+  },
+  {
+    "stockname": "HCLTECH.NS",
+    "Mean_return": 0.000856922,
+    "Standard_deviation": 0.017590104,
+    "VAR_90": -0.018597269,
+    "VAR_95": -0.02535494,
+    "VAR_99": -0.047221042,
+    "Beta": 0.865308296
+  },
+  {
+    "stockname": "HDFC.NS",
+    "Mean_return": 0.000947022,
+    "Standard_deviation": 0.018993794,
+    "VAR_90": -0.018241438,
+    "VAR_95": -0.025917921,
+    "VAR_99": -0.050311103,
+    "Beta": 1.268029844
+  },
+  {
+    "stockname": "HDFCAMC.NS",
+    "Mean_return": 0.001132445,
+    "Standard_deviation": 0.023049297,
+    "VAR_90": -0.024584877,
+    "VAR_95": -0.032889626,
+    "VAR_99": -0.060837919,
+    "Beta": 0.837450234
+  },
+  {
+    "stockname": "HDFCBANK.NS",
+    "Mean_return": 0.00108414,
+    "Standard_deviation": 0.015100223,
+    "VAR_90": -0.013145375,
+    "VAR_95": -0.018991653,
+    "VAR_99": -0.035681108,
+    "Beta": 1.232109429
+  },
+  {
+    "stockname": "HDFCLIFE.NS",
+    "Mean_return": 0.001112529,
+    "Standard_deviation": 0.022224697,
+    "VAR_90": -0.020875827,
+    "VAR_95": -0.027811342,
+    "VAR_99": -0.057012399,
+    "Beta": 0.54859749
+  },
+  {
+    "stockname": "HEROMOTOCO.NS",
+    "Mean_return": 0.000459168,
+    "Standard_deviation": 0.019304938,
+    "VAR_90": -0.019062982,
+    "VAR_95": -0.027381641,
+    "VAR_99": -0.053117889,
+    "Beta": 0.674279841
+  },
+  {
+    "stockname": "HIKAL.NS",
+    "Mean_return": 0.000884321,
+    "Standard_deviation": 0.026921712,
+    "VAR_90": -0.024096872,
+    "VAR_95": -0.032118407,
+    "VAR_99": -0.056684449,
+    "Beta": 0.686632482
+  },
+  {
+    "stockname": "HINDALCO.NS",
+    "Mean_return": 0.001550101,
+    "Standard_deviation": 0.026371086,
+    "VAR_90": -0.026789081,
+    "VAR_95": -0.035973941,
+    "VAR_99": -0.0702186,
+    "Beta": 1.463318772
+  },
+  {
+    "stockname": "HINDPETRO.NS",
+    "Mean_return": 0.00069708,
+    "Standard_deviation": 0.026731787,
+    "VAR_90": -0.027490877,
+    "VAR_95": -0.038697759,
+    "VAR_99": -0.061107208,
+    "Beta": 0.913365602
+  },
+  {
+    "stockname": "HINDUNILVR.NS",
+    "Mean_return": 0.000941418,
+    "Standard_deviation": 0.014729407,
+    "VAR_90": -0.014400572,
+    "VAR_95": -0.01980744,
+    "VAR_99": -0.030591471,
+    "Beta": 0.245044378
+  },
+  {
+    "stockname": "HINDZINC.NS",
+    "Mean_return": 0.000730823,
+    "Standard_deviation": 0.02157232,
+    "VAR_90": -0.0220711,
+    "VAR_95": -0.032673081,
+    "VAR_99": -0.053708989,
+    "Beta": 0.676659601
+  },
+  {
+    "stockname": "HONAUT.NS",
+    "Mean_return": 0.001545488,
+    "Standard_deviation": 0.020199721,
+    "VAR_90": -0.01660335,
+    "VAR_95": -0.022724551,
+    "VAR_99": -0.037778429,
+    "Beta": 0.503484386
+  },
+  {
+    "stockname": "HSCL.NS",
+    "Mean_return": 0.001524616,
+    "Standard_deviation": 0.033087586,
+    "VAR_90": -0.032737575,
+    "VAR_95": -0.046234601,
+    "VAR_99": -0.08425354,
+    "Beta": 1.008597755
+  },
+  {
+    "stockname": "ICICIBANK.NS",
+    "Mean_return": 0.001285336,
+    "Standard_deviation": 0.023303912,
+    "VAR_90": -0.022269966,
+    "VAR_95": -0.031649298,
+    "VAR_99": -0.057842287,
+    "Beta": 1.673138559
+  },
+  {
+    "stockname": "ICICIGI.NS",
+    "Mean_return": 0.001182049,
+    "Standard_deviation": 0.022320023,
+    "VAR_90": -0.02140396,
+    "VAR_95": -0.033843409,
+    "VAR_99": -0.057781563,
+    "Beta": 0.663885457
+  },
+  {
+    "stockname": "ICICIPRULI.NS",
+    "Mean_return": 0.000720136,
+    "Standard_deviation": 0.023741699,
+    "VAR_90": -0.021992143,
+    "VAR_95": -0.02952044,
+    "VAR_99": -0.054048212,
+    "Beta": 0.572760612
+  },
+  {
+    "stockname": "IDBI.NS",
+    "Mean_return": 0.000012,
+    "Standard_deviation": 0.030960948,
+    "VAR_90": -0.031657235,
+    "VAR_95": -0.047830829,
+    "VAR_99": -0.076804359,
+    "Beta": 0.907650247
+  },
+  {
+    "stockname": "IDFC.NS",
+    "Mean_return": 0.000447271,
+    "Standard_deviation": 0.027293368,
+    "VAR_90": -0.02710047,
+    "VAR_95": -0.039178889,
+    "VAR_99": -0.064894122,
+    "Beta": 0.659384417
+  },
+  {
+    "stockname": "IDFCFIRSTB.NS",
+    "Mean_return": 0.00029901,
+    "Standard_deviation": 0.025470718,
+    "VAR_90": -0.027032658,
+    "VAR_95": -0.037165508,
+    "VAR_99": -0.063069614,
+    "Beta": 1.157885555
+  },
+  {
+    "stockname": "IEX.NS",
+    "Mean_return": 0.000781995,
+    "Standard_deviation": 0.021144843,
+    "VAR_90": -0.020031949,
+    "VAR_95": -0.030005893,
+    "VAR_99": -0.057789795,
+    "Beta": 0.423864063
+  },
+  {
+    "stockname": "IGL.NS",
+    "Mean_return": 0.00153428,
+    "Standard_deviation": 0.01996757,
+    "VAR_90": -0.020734819,
+    "VAR_95": -0.029346758,
+    "VAR_99": -0.049031929,
+    "Beta": 0.794737242
+  },
+  {
+    "stockname": "INDIACEM.NS",
+    "Mean_return": 0.001134867,
+    "Standard_deviation": 0.029451405,
+    "VAR_90": -0.031375832,
+    "VAR_95": -0.041650172,
+    "VAR_99": -0.066893913,
+    "Beta": 0.728496638
+  },
+  {
+    "stockname": "INDIAMART.NS",
+    "Mean_return": 0.005600512,
+    "Standard_deviation": 0.036011605,
+    "VAR_90": -0.029609231,
+    "VAR_95": -0.044533343,
+    "VAR_99": -0.066695573,
+    "Beta": 0.570065292
+  },
+  {
+    "stockname": "INDIGO.NS",
+    "Mean_return": 0.001007202,
+    "Standard_deviation": 0.024870896,
+    "VAR_90": -0.024906491,
+    "VAR_95": -0.036392422,
+    "VAR_99": -0.067292999,
+    "Beta": 1.512353791
+  },
+  {
+    "stockname": "INDOCO.NS",
+    "Mean_return": 0.000538902,
+    "Standard_deviation": 0.030458709,
+    "VAR_90": -0.029753326,
+    "VAR_95": -0.039300968,
+    "VAR_99": -0.069146423,
+    "Beta": 0.666888296
+  },
+  {
+    "stockname": "INDUSINDBK.NS",
+    "Mean_return": 0.000642602,
+    "Standard_deviation": 0.030148133,
+    "VAR_90": -0.023067047,
+    "VAR_95": -0.035288972,
+    "VAR_99": -0.08071742,
+    "Beta": 2.075570928
+  },
+  {
+    "stockname": "INFIBEAM.NS",
+    "Mean_return": 0.001560437,
+    "Standard_deviation": 0.040307529,
+    "VAR_90": -0.02651119,
+    "VAR_95": -0.039531632,
+    "VAR_99": -0.10459667,
+    "Beta": 0.752668995
+  },
+  {
+    "stockname": "INFRATEL.NS",
+    "Mean_return": 0.0000582,
+    "Standard_deviation": 0.027425656,
+    "VAR_90": -0.027507123,
+    "VAR_95": -0.038433259,
+    "VAR_99": -0.080254287,
+    "Beta": 0.759973425
+  },
+  {
+    "stockname": "INFY.NS",
+    "Mean_return": 0.000880792,
+    "Standard_deviation": 0.017957768,
+    "VAR_90": -0.016824108,
+    "VAR_95": -0.023638663,
+    "VAR_99": -0.047890416,
+    "Beta": 0.859522167
+  },
+  {
+    "stockname": "INTELLECT.NS",
+    "Mean_return": 0.001354731,
+    "Standard_deviation": 0.031777503,
+    "VAR_90": -0.033025982,
+    "VAR_95": -0.046181684,
+    "VAR_99": -0.07417141,
+    "Beta": 0.695287552
+  },
+  {
+    "stockname": "IOB.NS",
+    "Mean_return": -0.000296142,
+    "Standard_deviation": 0.022917921,
+    "VAR_90": -0.02122548,
+    "VAR_95": -0.03169373,
+    "VAR_99": -0.05211889,
+    "Beta": 0.797766244
+  },
+  {
+    "stockname": "IOC.NS",
+    "Mean_return": 0.000312056,
+    "Standard_deviation": 0.020924834,
+    "VAR_90": -0.022995389,
+    "VAR_95": -0.030275155,
+    "VAR_99": -0.052701227,
+    "Beta": 0.976972276
+  },
+  {
+    "stockname": "IOLCP.NS",
+    "Mean_return": 0.002527663,
+    "Standard_deviation": 0.034691121,
+    "VAR_90": -0.03244257,
+    "VAR_95": -0.046478512,
+    "VAR_99": -0.085259969,
+    "Beta": 0.726576228
+  },
+  {
+    "stockname": "IPCALAB.NS",
+    "Mean_return": 0.001195372,
+    "Standard_deviation": 0.022306503,
+    "VAR_90": -0.021551304,
+    "VAR_95": -0.029394657,
+    "VAR_99": -0.052678866,
+    "Beta": 0.503189143
+  },
+  {
+    "stockname": "IRCTC.NS",
+    "Mean_return": 0.002884122,
+    "Standard_deviation": 0.030016906,
+    "VAR_90": -0.025522952,
+    "VAR_95": -0.0489838,
+    "VAR_99": -0.076245323,
+    "Beta": 0.519255828
+  },
+  {
+    "stockname": "ISEC.NS",
+    "Mean_return": 0.000332827,
+    "Standard_deviation": 0.029748847,
+    "VAR_90": -0.029978145,
+    "VAR_95": -0.043360471,
+    "VAR_99": -0.071789119,
+    "Beta": 0.482346533
+  },
+  {
+    "stockname": "ITC.NS",
+    "Mean_return": 0.000283338,
+    "Standard_deviation": 0.01754449,
+    "VAR_90": -0.017073352,
+    "VAR_95": -0.023082121,
+    "VAR_99": -0.036548978,
+    "Beta": 0.830169864
+  },
+  {
+    "stockname": "ITI.NS",
+    "Mean_return": 0.002082963,
+    "Standard_deviation": 0.039593347,
+    "VAR_90": -0.03595464,
+    "VAR_95": -0.047650006,
+    "VAR_99": -0.078046317,
+    "Beta": 0.925452831
+  },
+  {
+    "stockname": "JCHAC.NS",
+    "Mean_return": 0.001003624,
+    "Standard_deviation": 0.025275403,
+    "VAR_90": -0.022094434,
+    "VAR_95": -0.032024957,
+    "VAR_99": -0.05678841,
+    "Beta": 0.74556312
+  },
+  {
+    "stockname": "JINDALSTEL.NS",
+    "Mean_return": 0.00203283,
+    "Standard_deviation": 0.035663808,
+    "VAR_90": -0.038171403,
+    "VAR_95": -0.052812291,
+    "VAR_99": -0.094926489,
+    "Beta": 1.580901715
+  },
+  {
+    "stockname": "JSWENERGY.NS",
+    "Mean_return": 0.00040498,
+    "Standard_deviation": 0.024369391,
+    "VAR_90": -0.026580163,
+    "VAR_95": -0.035883556,
+    "VAR_99": -0.06027269,
+    "Beta": 0.273532776
+  },
+  {
+    "stockname": "JSWSTEEL.NS",
+    "Mean_return": 0.001421577,
+    "Standard_deviation": 0.022686658,
+    "VAR_90": -0.024331531,
+    "VAR_95": -0.033260923,
+    "VAR_99": -0.05387819,
+    "Beta": 1.042058341
+  },
+  {
+    "stockname": "JUBILANT.NS",
+    "Mean_return": 0.001383342,
+    "Standard_deviation": 0.029228436,
+    "VAR_90": -0.030390393,
+    "VAR_95": -0.038974112,
+    "VAR_99": -0.065882297,
+    "Beta": 0.727229654
+  },
+  {
+    "stockname": "JUBLFOOD.NS",
+    "Mean_return": 0.001655722,
+    "Standard_deviation": 0.02450886,
+    "VAR_90": -0.023393117,
+    "VAR_95": -0.033810091,
+    "VAR_99": -0.065268428,
+    "Beta": 0.763987777
+  },
+  {
+    "stockname": "JYOTHYLAB.NS",
+    "Mean_return": 0.000342103,
+    "Standard_deviation": 0.021369602,
+    "VAR_90": -0.021805816,
+    "VAR_95": -0.0310009,
+    "VAR_99": -0.047875366,
+    "Beta": 0.420200863
+  },
+  {
+    "stockname": "KAJARIACER.NS",
+    "Mean_return": 0.000775125,
+    "Standard_deviation": 0.020714593,
+    "VAR_90": -0.020999733,
+    "VAR_95": -0.027805588,
+    "VAR_99": -0.051119704,
+    "Beta": 0.312092056
+  },
+  {
+    "stockname": "KANSAINER.NS",
+    "Mean_return": 0.000857823,
+    "Standard_deviation": 0.020009774,
+    "VAR_90": -0.019240872,
+    "VAR_95": -0.026659425,
+    "VAR_99": -0.053030574,
+    "Beta": 0.807955391
+  },
+  {
+    "stockname": "KARURVYSYA.NS",
+    "Mean_return": 0.000119024,
+    "Standard_deviation": 0.023953104,
+    "VAR_90": -0.022933536,
+    "VAR_95": -0.033123907,
+    "VAR_99": -0.053824926,
+    "Beta": 1.122085087
+  },
+  {
+    "stockname": "KEC.NS",
+    "Mean_return": 0.001444627,
+    "Standard_deviation": 0.023813655,
+    "VAR_90": -0.024378524,
+    "VAR_95": -0.031436226,
+    "VAR_99": -0.053680863,
+    "Beta": 0.575974923
+  },
+  {
+    "stockname": "KNRCON.NS",
+    "Mean_return": 0.001578661,
+    "Standard_deviation": 0.023930891,
+    "VAR_90": -0.023347608,
+    "VAR_95": -0.032219433,
+    "VAR_99": -0.055321227,
+    "Beta": 0.922837956
+  },
+  {
+    "stockname": "KOTAKBANK.NS",
+    "Mean_return": 0.001084285,
+    "Standard_deviation": 0.01789639,
+    "VAR_90": -0.016387395,
+    "VAR_95": -0.024212476,
+    "VAR_99": -0.044611456,
+    "Beta": 1.011398979
+  },
+  {
+    "stockname": "KPITTECH.NS",
+    "Mean_return": 0.001157695,
+    "Standard_deviation": 0.031830757,
+    "VAR_90": -0.033900285,
+    "VAR_95": -0.043091687,
+    "VAR_99": -0.073828194,
+    "Beta": 0.672721151
+  },
+  {
+    "stockname": "KRBL.NS",
+    "Mean_return": 0.000586358,
+    "Standard_deviation": 0.031749862,
+    "VAR_90": -0.028924988,
+    "VAR_95": -0.043644364,
+    "VAR_99": -0.085217755,
+    "Beta": 0.07445655
+  },
+  {
+    "stockname": "KSCL.NS",
+    "Mean_return": 0.000698034,
+    "Standard_deviation": 0.025149981,
+    "VAR_90": -0.026098791,
+    "VAR_95": -0.03697757,
+    "VAR_99": -0.059334737,
+    "Beta": 0.647660379
+  },
+  {
+    "stockname": "L&TFH.NS",
+    "Mean_return": 0.000850388,
+    "Standard_deviation": 0.027772538,
+    "VAR_90": -0.028304259,
+    "VAR_95": -0.038294869,
+    "VAR_99": -0.075791563,
+    "Beta": 1.297206985
+  },
+  {
+    "stockname": "LALPATHLAB.NS",
+    "Mean_return": 0.001108908,
+    "Standard_deviation": 0.0205734,
+    "VAR_90": -0.020644139,
+    "VAR_95": -0.028406755,
+    "VAR_99": -0.050356963,
+    "Beta": 0.397182123
+  },
+  {
+    "stockname": "LAURUSLABS.NS",
+    "Mean_return": 0.001546914,
+    "Standard_deviation": 0.022957471,
+    "VAR_90": -0.020017272,
+    "VAR_95": -0.02857891,
+    "VAR_99": -0.055619802,
+    "Beta": 1.010919385
+  },
+  {
+    "stockname": "LICHSGFIN.NS",
+    "Mean_return": 0.000354443,
+    "Standard_deviation": 0.024248914,
+    "VAR_90": -0.024953654,
+    "VAR_95": -0.037280863,
+    "VAR_99": -0.061361883,
+    "Beta": 1.453751743
+  },
+  {
+    "stockname": "LINDEINDIA.NS",
+    "Mean_return": 0.001489359,
+    "Standard_deviation": 0.025974204,
+    "VAR_90": -0.022394568,
+    "VAR_95": -0.030570554,
+    "VAR_99": -0.06344742,
+    "Beta": 0.789754129
+  },
+  {
+    "stockname": "LT.NS",
+    "Mean_return": 0.000782314,
+    "Standard_deviation": 0.018279338,
+    "VAR_90": -0.016549286,
+    "VAR_95": -0.02228449,
+    "VAR_99": -0.04488853,
+    "Beta": 1.144724143
+  },
+  {
+    "stockname": "LTI.NS",
+    "Mean_return": 0.001809578,
+    "Standard_deviation": 0.021425381,
+    "VAR_90": -0.019478693,
+    "VAR_95": -0.02743281,
+    "VAR_99": -0.050531303,
+    "Beta": 0.701322412
+  },
+  {
+    "stockname": "LTTS.NS",
+    "Mean_return": 0.001333421,
+    "Standard_deviation": 0.023836676,
+    "VAR_90": -0.021197057,
+    "VAR_95": -0.032158794,
+    "VAR_99": -0.057493803,
+    "Beta": 0.646563674
+  },
+  {
+    "stockname": "LUPIN.NS",
+    "Mean_return": -0.000220695,
+    "Standard_deviation": 0.019787148,
+    "VAR_90": -0.020222322,
+    "VAR_95": -0.027253255,
+    "VAR_99": -0.050515778,
+    "Beta": 0.722653774
+  },
+  {
+    "stockname": "LUXIND.NS",
+    "Mean_return": 0.001160532,
+    "Standard_deviation": 0.0231874,
+    "VAR_90": -0.021218282,
+    "VAR_95": -0.031246524,
+    "VAR_99": -0.052334432,
+    "Beta": 0.22163763
+  },
+  {
+    "stockname": "M&M.NS",
+    "Mean_return": 0.000613702,
+    "Standard_deviation": 0.020428674,
+    "VAR_90": -0.019472347,
+    "VAR_95": -0.026786772,
+    "VAR_99": -0.062225982,
+    "Beta": 1.331559748
+  },
+  {
+    "stockname": "M&MFIN.NS",
+    "Mean_return": 0.000480544,
+    "Standard_deviation": 0.031119682,
+    "VAR_90": -0.030217463,
+    "VAR_95": -0.04108829,
+    "VAR_99": -0.081313692,
+    "Beta": 1.712385631
+  },
+  {
+    "stockname": "MANAPPURAM.NS",
+    "Mean_return": 0.001928798,
+    "Standard_deviation": 0.030200893,
+    "VAR_90": -0.029316255,
+    "VAR_95": -0.040987423,
+    "VAR_99": -0.078061165,
+    "Beta": 1.208158592
+  },
+  {
+    "stockname": "MARICO.NS",
+    "Mean_return": 0.000600978,
+    "Standard_deviation": 0.015618521,
+    "VAR_90": -0.016649097,
+    "VAR_95": -0.022575215,
+    "VAR_99": -0.039221278,
+    "Beta": 0.445804385
+  },
+  {
+    "stockname": "MARUTI.NS",
+    "Mean_return": 0.000815206,
+    "Standard_deviation": 0.019813364,
+    "VAR_90": -0.018125463,
+    "VAR_95": -0.027040316,
+    "VAR_99": -0.050618337,
+    "Beta": 0.89598511
+  },
+  {
+    "stockname": "MCDOWELL-N.NS",
+    "Mean_return": 0.000422927,
+    "Standard_deviation": 0.021914146,
+    "VAR_90": -0.023227336,
+    "VAR_95": -0.030412367,
+    "VAR_99": -0.05380421,
+    "Beta": 0.834889316
+  },
+  {
+    "stockname": "METROPOLIS.NS",
+    "Mean_return": 0.002194102,
+    "Standard_deviation": 0.026817962,
+    "VAR_90": -0.025376512,
+    "VAR_95": -0.032932766,
+    "VAR_99": -0.062147783,
+    "Beta": 0.13992924
+  },
+  {
+    "stockname": "MFSL.NS",
+    "Mean_return": 0.001016719,
+    "Standard_deviation": 0.027261236,
+    "VAR_90": -0.024984351,
+    "VAR_95": -0.035044258,
+    "VAR_99": -0.066496688,
+    "Beta": 0.590926306
+  },
+  {
+    "stockname": "MGL.NS",
+    "Mean_return": 0.000871402,
+    "Standard_deviation": 0.020162785,
+    "VAR_90": -0.019629941,
+    "VAR_95": -0.026965282,
+    "VAR_99": -0.050312592,
+    "Beta": 0.611477035
+  },
+  {
+    "stockname": "MINDTREE.NS",
+    "Mean_return": 0.000975264,
+    "Standard_deviation": 0.02268098,
+    "VAR_90": -0.020221014,
+    "VAR_95": -0.028722708,
+    "VAR_99": -0.068876543,
+    "Beta": 0.959843447
+  },
+  {
+    "stockname": "MOIL.NS",
+    "Mean_return": 0.000610723,
+    "Standard_deviation": 0.024053058,
+    "VAR_90": -0.024339509,
+    "VAR_95": -0.033080212,
+    "VAR_99": -0.060309607,
+    "Beta": 0.755712866
+  },
+  {
+    "stockname": "MOTHERSUMI.NS",
+    "Mean_return": 0.00081749,
+    "Standard_deviation": 0.028281814,
+    "VAR_90": -0.028572195,
+    "VAR_95": -0.043473025,
+    "VAR_99": -0.067048286,
+    "Beta": 1.525337344
+  },
+  {
+    "stockname": "MPHASIS.NS",
+    "Mean_return": 0.001314176,
+    "Standard_deviation": 0.021387049,
+    "VAR_90": -0.021642515,
+    "VAR_95": -0.031152777,
+    "VAR_99": -0.051685908,
+    "Beta": 0.539019452
+  },
+  {
+    "stockname": "MRF.NS",
+    "Mean_return": 0.000996453,
+    "Standard_deviation": 0.017636264,
+    "VAR_90": -0.017171839,
+    "VAR_95": -0.023422572,
+    "VAR_99": -0.040843472,
+    "Beta": 1.020414589
+  },
+  {
+    "stockname": "MUTHOOTFIN.NS",
+    "Mean_return": 0.001866974,
+    "Standard_deviation": 0.026670662,
+    "VAR_90": -0.024900775,
+    "VAR_95": -0.034150382,
+    "VAR_99": -0.05949627,
+    "Beta": 0.896918165
+  },
+  {
+    "stockname": "NATCOPHARM.NS",
+    "Mean_return": 0.000823692,
+    "Standard_deviation": 0.022060792,
+    "VAR_90": -0.020575363,
+    "VAR_95": -0.028067623,
+    "VAR_99": -0.049287463,
+    "Beta": 0.46242746
+  },
+  {
+    "stockname": "NAUKRI.NS",
+    "Mean_return": 0.001867478,
+    "Standard_deviation": 0.025167332,
+    "VAR_90": -0.024476795,
+    "VAR_95": -0.036170799,
+    "VAR_99": -0.055091059,
+    "Beta": 1.0831667
+  },
+  {
+    "stockname": "NESTLEIND.NS",
+    "Mean_return": 0.001095846,
+    "Standard_deviation": 0.015804882,
+    "VAR_90": -0.015230992,
+    "VAR_95": -0.020916384,
+    "VAR_99": -0.038904024,
+    "Beta": 0.257219822
+  },
+  {
+    "stockname": "NETWORK18.NS",
+    "Mean_return": 0.000330443,
+    "Standard_deviation": 0.029369351,
+    "VAR_90": -0.032892936,
+    "VAR_95": -0.043132202,
+    "VAR_99": -0.061082291,
+    "Beta": 0.704716943
+  },
+  {
+    "stockname": "NH.NS",
+    "Mean_return": 0.000614861,
+    "Standard_deviation": 0.020111032,
+    "VAR_90": -0.019701885,
+    "VAR_95": -0.028875036,
+    "VAR_99": -0.047098184,
+    "Beta": 0.560052421
+  },
+  {
+    "stockname": "NIACL.NS",
+    "Mean_return": -0.000870297,
+    "Standard_deviation": 0.027841687,
+    "VAR_90": -0.02679928,
+    "VAR_95": -0.036473739,
+    "VAR_99": -0.06102655,
+    "Beta": 1.117909056
+  },
+  {
+    "stockname": "NMDC.NS",
+    "Mean_return": 0.000629337,
+    "Standard_deviation": 0.024674446,
+    "VAR_90": -0.028116833,
+    "VAR_95": -0.035869571,
+    "VAR_99": -0.064890359,
+    "Beta": 1.159676069
+  },
+  {
+    "stockname": "NOCIL.NS",
+    "Mean_return": 0.001519987,
+    "Standard_deviation": 0.0289322,
+    "VAR_90": -0.029685351,
+    "VAR_95": -0.041367712,
+    "VAR_99": -0.06890595,
+    "Beta": 0.808880282
+  },
+  {
+    "stockname": "OFSS.NS",
+    "Mean_return": 0.00013079,
+    "Standard_deviation": 0.017234045,
+    "VAR_90": -0.017574925,
+    "VAR_95": -0.025192826,
+    "VAR_99": -0.047760627,
+    "Beta": 0.358021753
+  },
+  {
+    "stockname": "OIL.NS",
+    "Mean_return": -0.0000414,
+    "Standard_deviation": 0.021039252,
+    "VAR_90": -0.022148976,
+    "VAR_95": -0.030821114,
+    "VAR_99": -0.064888324,
+    "Beta": 0.703562054
+  },
+  {
+    "stockname": "ONGC.NS",
+    "Mean_return": -0.00000205,
+    "Standard_deviation": 0.022158809,
+    "VAR_90": -0.021267637,
+    "VAR_95": -0.029276682,
+    "VAR_99": -0.052584086,
+    "Beta": 1.03823312
+  },
+  {
+    "stockname": "PAGEIND.NS",
+    "Mean_return": 0.001058222,
+    "Standard_deviation": 0.021932765,
+    "VAR_90": -0.022363376,
+    "VAR_95": -0.029376068,
+    "VAR_99": -0.053217418,
+    "Beta": 0.899275841
+  },
+  {
+    "stockname": "PEL.NS",
+    "Mean_return": 0.000850581,
+    "Standard_deviation": 0.028066405,
+    "VAR_90": -0.029243971,
+    "VAR_95": -0.041008042,
+    "VAR_99": -0.072638372,
+    "Beta": 1.567585829
+  },
+  {
+    "stockname": "PERSISTENT.NS",
+    "Mean_return": 0.001096135,
+    "Standard_deviation": 0.020655935,
+    "VAR_90": -0.019423996,
+    "VAR_95": -0.027674859,
+    "VAR_99": -0.051777836,
+    "Beta": 0.711973581
+  },
+  {
+    "stockname": "PETRONET.NS",
+    "Mean_return": 0.000736729,
+    "Standard_deviation": 0.01930192,
+    "VAR_90": -0.020398452,
+    "VAR_95": -0.028304682,
+    "VAR_99": -0.048478455,
+    "Beta": 0.716042384
+  },
+  {
+    "stockname": "PFIZER.NS",
+    "Mean_return": 0.000777457,
+    "Standard_deviation": 0.017108017,
+    "VAR_90": -0.015531163,
+    "VAR_95": -0.022419647,
+    "VAR_99": -0.037065203,
+    "Beta": 0.06487401
+  },
+  {
+    "stockname": "PGHH.NS",
+    "Mean_return": 0.000712193,
+    "Standard_deviation": 0.013287302,
+    "VAR_90": -0.012895331,
+    "VAR_95": -0.017297391,
+    "VAR_99": -0.03116446,
+    "Beta": 0.140532387
+  },
+  {
+    "stockname": "PGHL.NS",
+    "Mean_return": 0.002234564,
+    "Standard_deviation": 0.024904587,
+    "VAR_90": -0.020964391,
+    "VAR_95": -0.030665488,
+    "VAR_99": -0.050622742,
+    "Beta": 0.367465945
+  },
+  {
+    "stockname": "PHILIPCARB.NS",
+    "Mean_return": 0.002515811,
+    "Standard_deviation": 0.033452963,
+    "VAR_90": -0.03200497,
+    "VAR_95": -0.045131294,
+    "VAR_99": -0.080247645,
+    "Beta": 0.810206812
+  },
+  {
+    "stockname": "PIDILITIND.NS",
+    "Mean_return": 0.001029894,
+    "Standard_deviation": 0.016605747,
+    "VAR_90": -0.01676032,
+    "VAR_95": -0.022799484,
+    "VAR_99": -0.04161056,
+    "Beta": 0.677894226
+  },
+  {
+    "stockname": "PIIND.NS",
+    "Mean_return": 0.001223112,
+    "Standard_deviation": 0.020516796,
+    "VAR_90": -0.020069673,
+    "VAR_95": -0.028345216,
+    "VAR_99": -0.045585055,
+    "Beta": 0.749500348
+  },
+  {
+    "stockname": "POLYCAB.NS",
+    "Mean_return": 0.001929209,
+    "Standard_deviation": 0.026601732,
+    "VAR_90": -0.021566029,
+    "VAR_95": -0.03215885,
+    "VAR_99": -0.072580942,
+    "Beta": 0.404577057
+  },
+  {
+    "stockname": "POLYMED.NS",
+    "Mean_return": 0.001498301,
+    "Standard_deviation": 0.026813699,
+    "VAR_90": -0.024800585,
+    "VAR_95": -0.034531625,
+    "VAR_99": -0.061161299,
+    "Beta": 0.430917979
+  },
+  {
+    "stockname": "POLYPLEX.NS",
+    "Mean_return": 0.001278668,
+    "Standard_deviation": 0.02297424,
+    "VAR_90": -0.022875738,
+    "VAR_95": -0.031824306,
+    "VAR_99": -0.05002764,
+    "Beta": 0.648933904
+  },
+  {
+    "stockname": "POWERGRID.NS",
+    "Mean_return": 0.000477481,
+    "Standard_deviation": 0.015363259,
+    "VAR_90": -0.017227194,
+    "VAR_95": -0.022236338,
+    "VAR_99": -0.036498979,
+    "Beta": 0.710774547
+  },
+  {
+    "stockname": "PRINCEPIPE.NS",
+    "Mean_return": 0.003816957,
+    "Standard_deviation": 0.037110607,
+    "VAR_90": -0.034623271,
+    "VAR_95": -0.048325795,
+    "VAR_99": -0.069404484,
+    "Beta": 0.777320218
+  },
+  {
+    "stockname": "QUESS.NS",
+    "Mean_return": 0.000676648,
+    "Standard_deviation": 0.027403378,
+    "VAR_90": -0.028458932,
+    "VAR_95": -0.040096163,
+    "VAR_99": -0.067328705,
+    "Beta": 0.634443788
+  },
+  {
+    "stockname": "RAIN.NS",
+    "Mean_return": 0.001884004,
+    "Standard_deviation": 0.03573878,
+    "VAR_90": -0.037320109,
+    "VAR_95": -0.049820007,
+    "VAR_99": -0.084898418,
+    "Beta": 0.968999915
+  },
+  {
+    "stockname": "RALLIS.NS",
+    "Mean_return": 0.00069656,
+    "Standard_deviation": 0.021269928,
+    "VAR_90": -0.020469137,
+    "VAR_95": -0.028249333,
+    "VAR_99": -0.052192071,
+    "Beta": 0.545296751
+  },
+  {
+    "stockname": "RAMCOCEM.NS",
+    "Mean_return": 0.000948076,
+    "Standard_deviation": 0.019612631,
+    "VAR_90": -0.019591347,
+    "VAR_95": -0.026406674,
+    "VAR_99": -0.047297233,
+    "Beta": 1.12436068
+  },
+  {
+    "stockname": "RAYMOND.NS",
+    "Mean_return": 0.000267864,
+    "Standard_deviation": 0.026219152,
+    "VAR_90": -0.02590785,
+    "VAR_95": -0.035917016,
+    "VAR_99": -0.07059679,
+    "Beta": 0.82525312
+  },
+  {
+    "stockname": "RBLBANK.NS",
+    "Mean_return": 0.00029412,
+    "Standard_deviation": 0.030292339,
+    "VAR_90": -0.028488495,
+    "VAR_95": -0.042979965,
+    "VAR_99": -0.095260822,
+    "Beta": 1.82919653
+  },
+  {
+    "stockname": "RCF.NS",
+    "Mean_return": 0.000672777,
+    "Standard_deviation": 0.027595699,
+    "VAR_90": -0.028525975,
+    "VAR_95": -0.037504315,
+    "VAR_99": -0.060090966,
+    "Beta": 0.806838826
+  },
+  {
+    "stockname": "RECLTD.NS",
+    "Mean_return": 0.000782594,
+    "Standard_deviation": 0.024747808,
+    "VAR_90": -0.027308128,
+    "VAR_95": -0.037755346,
+    "VAR_99": -0.06645704,
+    "Beta": 1.190517634
+  },
+  {
+    "stockname": "REDINGTON.NS",
+    "Mean_return": 0.000729025,
+    "Standard_deviation": 0.027964947,
+    "VAR_90": -0.026577549,
+    "VAR_95": -0.038799141,
+    "VAR_99": -0.065653278,
+    "Beta": 0.820960544
+  },
+  {
+    "stockname": "RELAXO.NS",
+    "Mean_return": 0.001380591,
+    "Standard_deviation": 0.019638875,
+    "VAR_90": -0.017281207,
+    "VAR_95": -0.025207574,
+    "VAR_99": -0.044439276,
+    "Beta": 0.477159181
+  },
+  {
+    "stockname": "RELIANCE.NS",
+    "Mean_return": 0.00136654,
+    "Standard_deviation": 0.019356221,
+    "VAR_90": -0.018533057,
+    "VAR_95": -0.025330978,
+    "VAR_99": -0.041766181,
+    "Beta": 0.819892174
+  },
+  {
+    "stockname": "ROSSARI.NS",
+    "Mean_return": 0.001743881,
+    "Standard_deviation": 0.024358813,
+    "VAR_90": -0.018967757,
+    "VAR_95": -0.031819699,
+    "VAR_99": -0.049081996,
+    "Beta": 0.421992545
+  },
+  {
+    "stockname": "ROUTE.NS",
+    "Mean_return": 0.00727732,
+    "Standard_deviation": 0.042425477,
+    "VAR_90": -0.028989086,
+    "VAR_95": -0.050221286,
+    "VAR_99": -0.096064017,
+    "Beta": -0.184216509
+  },
+  {
+    "stockname": "SAIL.NS",
+    "Mean_return": 0.000953309,
+    "Standard_deviation": 0.029719689,
+    "VAR_90": -0.033206979,
+    "VAR_95": -0.043456619,
+    "VAR_99": -0.068689623,
+    "Beta": 1.365811573
+  },
+  {
+    "stockname": "SANOFI.NS",
+    "Mean_return": 0.00061802,
+    "Standard_deviation": 0.01395659,
+    "VAR_90": -0.014491722,
+    "VAR_95": -0.018946036,
+    "VAR_99": -0.032531718,
+    "Beta": 0.255745348
+  },
+  {
+    "stockname": "SBICARD.NS",
+    "Mean_return": 0.002067313,
+    "Standard_deviation": 0.028636746,
+    "VAR_90": -0.021730775,
+    "VAR_95": -0.036029014,
+    "VAR_99": -0.061513943,
+    "Beta": 0.357633455
+  },
+  {
+    "stockname": "SBILIFE.NS",
+    "Mean_return": 0.000434871,
+    "Standard_deviation": 0.019890326,
+    "VAR_90": -0.019917509,
+    "VAR_95": -0.02891363,
+    "VAR_99": -0.053863131,
+    "Beta": 0.449250165
+  },
+  {
+    "stockname": "SBIN.NS",
+    "Mean_return": 0.001063108,
+    "Standard_deviation": 0.024448022,
+    "VAR_90": -0.024000155,
+    "VAR_95": -0.034987637,
+    "VAR_99": -0.059228034,
+    "Beta": 1.672798294
+  },
+  {
+    "stockname": "SEQUENT.NS",
+    "Mean_return": 0.000844181,
+    "Standard_deviation": 0.031835656,
+    "VAR_90": -0.033639579,
+    "VAR_95": -0.04478354,
+    "VAR_99": -0.076203801,
+    "Beta": 0.914272147
+  },
+  {
+    "stockname": "SFL.NS",
+    "Mean_return": 0.000876411,
+    "Standard_deviation": 0.018977008,
+    "VAR_90": -0.018782419,
+    "VAR_95": -0.025771729,
+    "VAR_99": -0.044595811,
+    "Beta": 0.518910012
+  },
+  {
+    "stockname": "SHARDACROP.NS",
+    "Mean_return": 0.000604238,
+    "Standard_deviation": 0.02713861,
+    "VAR_90": -0.026835695,
+    "VAR_95": -0.036248182,
+    "VAR_99": -0.062091008,
+    "Beta": 0.45978525
+  },
+  {
+    "stockname": "SHILPAMED.NS",
+    "Mean_return": 0.000442022,
+    "Standard_deviation": 0.027988214,
+    "VAR_90": -0.027250081,
+    "VAR_95": -0.040798431,
+    "VAR_99": -0.061040204,
+    "Beta": 0.450776258
+  },
+  {
+    "stockname": "SIEMENS.NS",
+    "Mean_return": 0.000699744,
+    "Standard_deviation": 0.018525814,
+    "VAR_90": -0.018794198,
+    "VAR_95": -0.026275517,
+    "VAR_99": -0.045254682,
+    "Beta": 0.956234525
+  },
+  {
+    "stockname": "SKFINDIA.NS",
+    "Mean_return": 0.000799479,
+    "Standard_deviation": 0.016780567,
+    "VAR_90": -0.015183179,
+    "VAR_95": -0.019681056,
+    "VAR_99": -0.035653453,
+    "Beta": 0.658619035
+  },
+  {
+    "stockname": "SOLARA.NS",
+    "Mean_return": 0.003458505,
+    "Standard_deviation": 0.036791255,
+    "VAR_90": -0.035580594,
+    "VAR_95": -0.049848382,
+    "VAR_99": -0.087202272,
+    "Beta": 0.312698994
+  },
+  {
+    "stockname": "SOLARINDS.NS",
+    "Mean_return": 0.00070192,
+    "Standard_deviation": 0.0156531,
+    "VAR_90": -0.015671467,
+    "VAR_95": -0.021394735,
+    "VAR_99": -0.034147179,
+    "Beta": 0.335709876
+  },
+  {
+    "stockname": "SONATSOFTW.NS",
+    "Mean_return": 0.001166865,
+    "Standard_deviation": 0.024503202,
+    "VAR_90": -0.024980937,
+    "VAR_95": -0.03352833,
+    "VAR_99": -0.055185204,
+    "Beta": 0.746061045
+  },
+  {
+    "stockname": "SPARC.NS",
+    "Mean_return": 0.00013814,
+    "Standard_deviation": 0.029436157,
+    "VAR_90": -0.028415713,
+    "VAR_95": -0.039908894,
+    "VAR_99": -0.065733959,
+    "Beta": 0.893543053
+  },
+  {
+    "stockname": "SPENCERS.NS",
+    "Mean_return": -0.001246581,
+    "Standard_deviation": 0.038816006,
+    "VAR_90": -0.041369433,
+    "VAR_95": -0.049995592,
+    "VAR_99": -0.089955261,
+    "Beta": 0.824691779
+  },
+  {
+    "stockname": "SRF.NS",
+    "Mean_return": 0.001558224,
+    "Standard_deviation": 0.022136588,
+    "VAR_90": -0.020696046,
+    "VAR_95": -0.028658173,
+    "VAR_99": -0.056248419,
+    "Beta": 0.909912942
+  },
+  {
+    "stockname": "STAR.NS",
+    "Mean_return": 0.000319958,
+    "Standard_deviation": 0.028729417,
+    "VAR_90": -0.027934432,
+    "VAR_95": -0.037273729,
+    "VAR_99": -0.070474635,
+    "Beta": 0.691706398
+  },
+  {
+    "stockname": "SUDARSCHEM.NS",
+    "Mean_return": 0.001884265,
+    "Standard_deviation": 0.028803623,
+    "VAR_90": -0.024987931,
+    "VAR_95": -0.036246702,
+    "VAR_99": -0.06420743,
+    "Beta": 0.541115124
+  },
+  {
+    "stockname": "SUMICHEM.NS",
+    "Mean_return": 0.002111129,
+    "Standard_deviation": 0.030652971,
+    "VAR_90": -0.029602264,
+    "VAR_95": -0.039085337,
+    "VAR_99": -0.070910105,
+    "Beta": 0.577393116
+  },
+  {
+    "stockname": "SUNPHARMA.NS",
+    "Mean_return": -0.00000215,
+    "Standard_deviation": 0.020787026,
+    "VAR_90": -0.021436402,
+    "VAR_95": -0.029609939,
+    "VAR_99": -0.059948078,
+    "Beta": 0.818041018
+  },
+  {
+    "stockname": "SUNTV.NS",
+    "Mean_return": 0.000764534,
+    "Standard_deviation": 0.026158836,
+    "VAR_90": -0.027750556,
+    "VAR_95": -0.037591367,
+    "VAR_99": -0.059958419,
+    "Beta": 1.086097856
+  },
+  {
+    "stockname": "SUVENPHAR.NS",
+    "Mean_return": 0.005511732,
+    "Standard_deviation": 0.040572412,
+    "VAR_90": -0.039977557,
+    "VAR_95": -0.049945918,
+    "VAR_99": -0.076996229,
+    "Beta": 0.507830223
+  },
+  {
+    "stockname": "SWSOLAR.NS",
+    "Mean_return": -0.00213292,
+    "Standard_deviation": 0.04188032,
+    "VAR_90": -0.049797376,
+    "VAR_95": -0.054008258,
+    "VAR_99": -0.102149352,
+    "Beta": 0.92944961
+  },
+  {
+    "stockname": "SYNGENE.NS",
+    "Mean_return": 0.001105869,
+    "Standard_deviation": 0.019454829,
+    "VAR_90": -0.020190675,
+    "VAR_95": -0.02707716,
+    "VAR_99": -0.043137255,
+    "Beta": 0.49519891
+  },
+  {
+    "stockname": "TATACHEM.NS",
+    "Mean_return": 0.000767935,
+    "Standard_deviation": 0.02437702,
+    "VAR_90": -0.017578164,
+    "VAR_95": -0.025015425,
+    "VAR_99": -0.048334892,
+    "Beta": 0.899179059
+  },
+  {
+    "stockname": "TATACONSUM.NS",
+    "Mean_return": 0.001653205,
+    "Standard_deviation": 0.021951318,
+    "VAR_90": -0.020763684,
+    "VAR_95": -0.029266558,
+    "VAR_99": -0.053487744,
+    "Beta": 0.717237268
+  },
+  {
+    "stockname": "TATAELXSI.NS",
+    "Mean_return": 0.0011904,
+    "Standard_deviation": 0.023747801,
+    "VAR_90": -0.024351189,
+    "VAR_95": -0.033653094,
+    "VAR_99": -0.060803593,
+    "Beta": 0.917132085
+  },
+  {
+    "stockname": "TATAMOTORS.NS",
+    "Mean_return": 0.000626465,
+    "Standard_deviation": 0.030916966,
+    "VAR_90": -0.030609075,
+    "VAR_95": -0.041782518,
+    "VAR_99": -0.080852848,
+    "Beta": 1.89564646
+  },
+  {
+    "stockname": "TATAPOWER.NS",
+    "Mean_return": 0.000624592,
+    "Standard_deviation": 0.022083965,
+    "VAR_90": -0.023281722,
+    "VAR_95": -0.035377169,
+    "VAR_99": -0.054097782,
+    "Beta": 1.533308221
+  },
+  {
+    "stockname": "TATASTEEL.NS",
+    "Mean_return": 0.001257562,
+    "Standard_deviation": 0.024086404,
+    "VAR_90": -0.02512095,
+    "VAR_95": -0.035083026,
+    "VAR_99": -0.063612472,
+    "Beta": 1.248994334
+  },
+  {
+    "stockname": "TCIEXP.NS",
+    "Mean_return": 0.001305336,
+    "Standard_deviation": 0.025466849,
+    "VAR_90": -0.025814427,
+    "VAR_95": -0.03336513,
+    "VAR_99": -0.059625594,
+    "Beta": 0.304673035
+  },
+  {
+    "stockname": "TCS.NS",
+    "Mean_return": 0.001007602,
+    "Standard_deviation": 0.016379228,
+    "VAR_90": -0.016959228,
+    "VAR_95": -0.0242483,
+    "VAR_99": -0.043495224,
+    "Beta": 0.694611583
+  },
+  {
+    "stockname": "TECHM.NS",
+    "Mean_return": 0.000861677,
+    "Standard_deviation": 0.019550937,
+    "VAR_90": -0.01994231,
+    "VAR_95": -0.027468411,
+    "VAR_99": -0.047424272,
+    "Beta": 0.865051297
+  },
+  {
+    "stockname": "THYROCARE.NS",
+    "Mean_return": 0.000613376,
+    "Standard_deviation": 0.021886194,
+    "VAR_90": -0.019288762,
+    "VAR_95": -0.027653317,
+    "VAR_99": -0.054439905,
+    "Beta": 0.541097726
+  },
+  {
+    "stockname": "TITAN.NS",
+    "Mean_return": 0.001420237,
+    "Standard_deviation": 0.021448387,
+    "VAR_90": -0.020524453,
+    "VAR_95": -0.028735862,
+    "VAR_99": -0.054639072,
+    "Beta": 0.83179101
+  },
+  {
+    "stockname": "TORNTPHARM.NS",
+    "Mean_return": 0.000816316,
+    "Standard_deviation": 0.01917578,
+    "VAR_90": -0.019850955,
+    "VAR_95": -0.026058739,
+    "VAR_99": -0.047024369,
+    "Beta": 0.360531793
+  },
+  {
+    "stockname": "TORNTPOWER.NS",
+    "Mean_return": 0.000596805,
+    "Standard_deviation": 0.021859584,
+    "VAR_90": -0.023011365,
+    "VAR_95": -0.030404384,
+    "VAR_99": -0.052390372,
+    "Beta": 0.668929692
+  },
+  {
+    "stockname": "TRENT.NS",
+    "Mean_return": 0.001557707,
+    "Standard_deviation": 0.02341055,
+    "VAR_90": -0.021046058,
+    "VAR_95": -0.028048444,
+    "VAR_99": -0.053719155,
+    "Beta": 0.790811425
+  },
+  {
+    "stockname": "TV18BRDCST.NS",
+    "Mean_return": 0.000324097,
+    "Standard_deviation": 0.03061095,
+    "VAR_90": -0.03110178,
+    "VAR_95": -0.045652968,
+    "VAR_99": -0.073858721,
+    "Beta": 0.72361712
+  },
+  {
+    "stockname": "TVSMOTOR.NS",
+    "Mean_return": 0.000903564,
+    "Standard_deviation": 0.021328395,
+    "VAR_90": -0.023062774,
+    "VAR_95": -0.031851717,
+    "VAR_99": -0.051066672,
+    "Beta": 0.682717737
+  },
+  {
+    "stockname": "UBL.NS",
+    "Mean_return": 0.000559198,
+    "Standard_deviation": 0.019016237,
+    "VAR_90": -0.019163512,
+    "VAR_95": -0.02924131,
+    "VAR_99": -0.04646117,
+    "Beta": 0.492632621
+  },
+  {
+    "stockname": "UCOBANK.NS",
+    "Mean_return": -0.000306885,
+    "Standard_deviation": 0.027585772,
+    "VAR_90": -0.02459524,
+    "VAR_95": -0.036928069,
+    "VAR_99": -0.059219385,
+    "Beta": 0.587669945
+  },
+  {
+    "stockname": "ULTRACEMCO.NS",
+    "Mean_return": 0.000862655,
+    "Standard_deviation": 0.018414261,
+    "VAR_90": -0.019929469,
+    "VAR_95": -0.026526272,
+    "VAR_99": -0.040971604,
+    "Beta": 1.042534006
+  },
+  {
+    "stockname": "UNIONBANK.NS",
+    "Mean_return": -0.000594506,
+    "Standard_deviation": 0.029264116,
+    "VAR_90": -0.03046916,
+    "VAR_95": -0.043698397,
+    "VAR_99": -0.075648886,
+    "Beta": 0.737080444
+  },
+  {
+    "stockname": "UPL.NS",
+    "Mean_return": 0.000869899,
+    "Standard_deviation": 0.023343783,
+    "VAR_90": -0.021661493,
+    "VAR_95": -0.032452373,
+    "VAR_99": -0.068602168,
+    "Beta": 0.592070023
+  },
+  {
+    "stockname": "VEDL.NS",
+    "Mean_return": 0.001277032,
+    "Standard_deviation": 0.028858377,
+    "VAR_90": -0.028663305,
+    "VAR_95": -0.037535625,
+    "VAR_99": -0.085254251,
+    "Beta": 1.140789076
+  },
+  {
+    "stockname": "VGUARD.NS",
+    "Mean_return": 0.00131699,
+    "Standard_deviation": 0.021133224,
+    "VAR_90": -0.019939602,
+    "VAR_95": -0.027600971,
+    "VAR_99": -0.049530987,
+    "Beta": 0.008017092
+  },
+  {
+    "stockname": "VINATIORGA.NS",
+    "Mean_return": 0.001815333,
+    "Standard_deviation": 0.023579626,
+    "VAR_90": -0.023273534,
+    "VAR_95": -0.031890153,
+    "VAR_99": -0.053576007,
+    "Beta": 0.625891171
+  },
+  {
+    "stockname": "VIPIND.NS",
+    "Mean_return": 0.001478101,
+    "Standard_deviation": 0.026723742,
+    "VAR_90": -0.027562254,
+    "VAR_95": -0.036495062,
+    "VAR_99": -0.052498624,
+    "Beta": 0.826889579
+  },
+  {
+    "stockname": "VMART.NS",
+    "Mean_return": 0.001692428,
+    "Standard_deviation": 0.02819013,
+    "VAR_90": -0.029092955,
+    "VAR_95": -0.042530969,
+    "VAR_99": -0.056329798,
+    "Beta": 0.405239406
+  },
+  {
+    "stockname": "VOLTAS.NS",
+    "Mean_return": 0.001400909,
+    "Standard_deviation": 0.020407376,
+    "VAR_90": -0.020940713,
+    "VAR_95": -0.029349691,
+    "VAR_99": -0.051042335,
+    "Beta": 0.901836474
+  },
+  {
+    "stockname": "WHIRLPOOL.NS",
+    "Mean_return": 0.001329096,
+    "Standard_deviation": 0.020459969,
+    "VAR_90": -0.019917855,
+    "VAR_95": -0.028073799,
+    "VAR_99": -0.051288569,
+    "Beta": 0.505130496
+  },
+  {
+    "stockname": "WIPRO.NS",
+    "Mean_return": 0.000791713,
+    "Standard_deviation": 0.016440068,
+    "VAR_90": -0.01686464,
+    "VAR_95": -0.023575559,
+    "VAR_99": -0.040854174,
+    "Beta": 0.766483662
+  },
+  {
+    "stockname": "WOCKPHARMA.NS",
+    "Mean_return": -0.00000777,
+    "Standard_deviation": 0.029740786,
+    "VAR_90": -0.029934557,
+    "VAR_95": -0.042015589,
+    "VAR_99": -0.071268856,
+    "Beta": 1.113652784
+  },
+  {
+    "stockname": "ZEEL.NS",
+    "Mean_return": 0.0000621,
+    "Standard_deviation": 0.030979604,
+    "VAR_90": -0.028827537,
+    "VAR_95": -0.043464428,
+    "VAR_99": -0.084016221,
+    "Beta": 1.18673428
+  },
+  {
+    "stockname": "ZENSARTECH.NS",
+    "Mean_return": 0.000520149,
+    "Standard_deviation": 0.024146846,
+    "VAR_90": -0.021728026,
+    "VAR_95": -0.032126815,
+    "VAR_99": -0.058910172,
+    "Beta": 0.313258582
+  },
+  {
+    "stockname": "ZYDUSWELL.NS",
+    "Mean_return": 0.001009204,
+    "Standard_deviation": 0.018696236,
+    "VAR_90": -0.018550439,
+    "VAR_95": -0.023985481,
+    "VAR_99": -0.041453526,
+    "Beta": 0.119257716
+  },
+  {
+    "stockname": "^NSEI",
+    "Mean_return": 0.000695977,
+    "Standard_deviation": 0.011481443,
+    "VAR_90": -0.009791766,
+    "VAR_95": -0.014902636,
+    "VAR_99": -0.028640367,
+    "Beta": ""
+  }
+]
